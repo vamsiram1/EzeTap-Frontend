@@ -5,7 +5,7 @@ const PaymentButton = () => {
   const handlePaymentButton = async () => {
     const payload = {
       amount: "1",
-      deviceId: "1492739655|ezetap_android",
+      deviceId: "1490352511|ezetap_android",
       customerName: "ram",
       customerMobileNumber: "9876543210",
     };
